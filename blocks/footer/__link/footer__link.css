@@ -1,0 +1,17 @@
+.footer__link {
+  margin-right: 1.125rem;
+  text-decoration: none;
+  color: white;
+}
+.footer__link:last-child {
+  margin-right: 0;
+}
+
+@media screen and (max-width: 767px) and (min-width: 320px) {
+  .footer__link {
+    padding-bottom: 2rem;
+  }
+  .footer__link:last-child {
+    padding-bottom: 0;
+  }
+}

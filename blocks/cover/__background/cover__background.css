@@ -1,0 +1,8 @@
+.cover__background {
+  background-color: url(../../../images/trains.jpg);
+  object-fit: cover;
+  width: 100%;
+  text-align: center;
+  display: block;
+}
+
