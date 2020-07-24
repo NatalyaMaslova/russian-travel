@@ -1,7 +1,6 @@
 .intro {
   max-width: 43.125rem;
   width: 100%;
-  min-height: 26.75rem;
 }
 
 @media screen and (max-width: 1023px) and (min-width: 768px) {
@@ -12,6 +11,7 @@
 
 @media screen and (max-width: 767px) and (min-width: 320px) {
   .intro {
-    max-width: 18rem;
+    width: auto;
+    box-sizing: border-box;
   }
 }

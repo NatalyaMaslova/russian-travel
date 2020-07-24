@@ -35,5 +35,7 @@
     grid-template-columns: 20rem;
     grid-template-rows: repeat(3, minmax(min-content, max-content));
     row-gap: 2rem;
+    justify-content: center;
+    text-align: center;
   }
 }

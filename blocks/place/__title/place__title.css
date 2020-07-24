@@ -1,7 +1,6 @@
 .place__title {
   grid-column: 1/2;
   grid-row: 1/2;
-  font-family: Inter;
   font-style: normal;
   font-weight: 900;
   font-size: 72px;

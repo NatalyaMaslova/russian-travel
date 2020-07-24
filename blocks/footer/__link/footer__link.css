@@ -2,6 +2,8 @@
   margin-right: 1.125rem;
   text-decoration: none;
   color: white;
+  list-style-type: none;
+  margin-right:18px;
 }
 .footer__link:last-child {
   margin-right: 0;

@@ -2,7 +2,6 @@
   padding-left: 9.25rem;
   padding-right: 9.25rem;
   padding-top: 5.75rem;
-  /*margin: 0 auto;*/
 }
 
 @media screen and (max-width: 767px) and (min-width: 320px) {
@@ -25,7 +24,6 @@
   .wrapper_size_l {
     padding-right: 3rem;
     padding-left: 3rem;
-    /*margin: 0;*/
   }
 }
 

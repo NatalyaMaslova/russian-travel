@@ -1,6 +1,4 @@
 .place__link {
-  position: absolute;
-  bottom: 0;
   text-decoration: underline;
   color: white;
   font-style: normal;
@@ -8,6 +6,7 @@
   font-size: 18px;
   line-height: 1.22;
   transition: opacity .5s linear;
+  padding-top: 12px;
 }
 .place__link:hover {
   opacity: 0.8;
